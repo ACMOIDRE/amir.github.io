@@ -32,7 +32,8 @@ footer, header, hgroup, menu, nav, section {
 .Profile {
 		padding: 100px;
 	  }	
-
+	  
+	  
 .image--Profile {
 		width: 250px;
 		height: 250px;
@@ -4705,3 +4706,9 @@ input, select, textarea {
 		}
 
 	}
+
+
+	video {
+		width: 100%;
+		height: auto;
+	  }
