@@ -1,3 +1,4 @@
 # amirsohail.github.io
+# type inside of [] link to portfolio
 resume
-[L](https://acmoidre.github.io/amirsohail.github.io/)
+[](https://acmoidre.github.io/amirsohail.github.io/)
